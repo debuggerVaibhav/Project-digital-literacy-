@@ -25,7 +25,9 @@ All five tasks are organized into separate folders, along with a detailed projec
 - task-5-cybercrime
 
 ---
-
+## Important Links
+Google Form Quiz (Task 3): https://docs.google.com/forms/d/e/1FAIpQLScOMmMFYoUYkcM0STOY1cebSFhhV247Mfywj0lfYeGM0J2BBA/viewform?usp=publish-editor
+LinkedIn url : https://www.linkedin.com/in/vaibhav-singh-1508023ab?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ---
 
 ## Task Summaries
@@ -38,6 +40,7 @@ Created an infographic using Canva to explain digital literacy concepts such as 
 ### Task 2 – Student Digital Portfolio
 Developed profiles on platforms like GitHub, LinkedIn, and Stack Overflow to build a professional digital presence and showcase learning goals.
 
+Linkedin url : https://www.linkedin.com/in/vaibhav-singh-1508023ab?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
